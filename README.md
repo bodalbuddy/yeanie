@@ -7,6 +7,7 @@
 [a relative link](other_file.md) 
 [^1]: And that's the footnote. 
 ![logo](http://finfra.com/f/f.png) 
+
 * table 
 |id|name |
 |--|-----|
