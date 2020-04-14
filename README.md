@@ -8,7 +8,8 @@
 [^1]: And that's the footnote. 
 ![logo](http://finfra.com/f/f.png) 
 
-* table 
+* table
+
 |id|name |
 |--|-----|
 |1 |aaa  |
